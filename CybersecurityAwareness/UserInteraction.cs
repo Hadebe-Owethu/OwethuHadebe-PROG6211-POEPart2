@@ -113,14 +113,9 @@ namespace CybersecurityAwareness
                     response = ErrorHandler.GetDefaultResponse();
                 }
 
-                // Personalize response occasionally (only if neutral sentiment)
+                
                 if (!string.IsNullOrEmpty(response))
                 {
-                    if (sentiment == UserSentiment.Neutral && rng.NextDouble() < 0.4)
-                    {
-                        response = Program.Memory.PersonalizeResponse(response);
-                    }
-
                     Console.WriteLine(response);
                 }
             }

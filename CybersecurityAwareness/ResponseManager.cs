@@ -10,7 +10,7 @@ namespace CybersecurityAwareness
     internal static class ResponseManager
     {
         private static Random rnd = new Random(); // For selecting random tips
-        private static Random rng = new Random(); // For controlling 40% personalization
+         
 
         /// <summary>
         /// Handles phishing-related responses.
@@ -26,11 +26,6 @@ namespace CybersecurityAwareness
             };
 
             string message = phishingTips[rnd.Next(phishingTips.Count)];
-
-            if (rng.NextDouble() < 0.4)
-            {
-                message = Program.Memory.PersonalizeResponse(message);
-            }
 
             Console.WriteLine(message);
         }
@@ -48,11 +43,6 @@ namespace CybersecurityAwareness
             };
 
             string message = passwordSafety[rnd.Next(passwordSafety.Count)];
-
-            if (rng.NextDouble() < 0.4)
-            {
-                message = Program.Memory.PersonalizeResponse(message);
-            }
 
             Console.WriteLine(message);
         }
@@ -72,10 +62,6 @@ namespace CybersecurityAwareness
 
             string message = saferBrowsing[rnd.Next(saferBrowsing.Count)];
 
-            if (rng.NextDouble() < 0.4)
-            {
-                message = Program.Memory.PersonalizeResponse(message);
-            }
 
             Console.WriteLine(message);
         }
@@ -95,11 +81,6 @@ namespace CybersecurityAwareness
 
             string message = ransomwareTips[rnd.Next(ransomwareTips.Count)];
 
-            if (rng.NextDouble() < 0.4)
-            {
-                message = Program.Memory.PersonalizeResponse(message);
-            }
-
             Console.WriteLine(message);
         }
 
@@ -118,10 +99,6 @@ namespace CybersecurityAwareness
 
             string message = spywareTips[rnd.Next(spywareTips.Count)];
 
-            if (rng.NextDouble() < 0.4)
-            {
-                message = Program.Memory.PersonalizeResponse(message);
-            }
 
             Console.WriteLine(message);
         }
@@ -141,10 +118,6 @@ namespace CybersecurityAwareness
 
             string message = mitmTips[rnd.Next(mitmTips.Count)];
 
-            if (rng.NextDouble() < 0.4)
-            {
-                message = Program.Memory.PersonalizeResponse(message);
-            }
 
             Console.WriteLine(message);
         }

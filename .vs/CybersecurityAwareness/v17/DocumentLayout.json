@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\PROG6211-Folder\\OwethuHadebe-PROG6211-POEPart2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE994A6-3C29-436B-9383-3FD5BC5FD176}|CybersecurityAwareness\\CybersecurityAwareness.csproj|c:\\users\\lab_services_student\\documents\\prog6211-folder\\owethuhadebe-prog6211-poepart2\\cybersecurityawareness\\userinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE994A6-3C29-436B-9383-3FD5BC5FD176}|CybersecurityAwareness\\CybersecurityAwareness.csproj|solutionrelative:cybersecurityawareness\\userinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE994A6-3C29-436B-9383-3FD5BC5FD176}|CybersecurityAwareness\\CybersecurityAwareness.csproj|c:\\users\\lab_services_student\\documents\\prog6211-folder\\owethuhadebe-prog6211-poepart2\\cybersecurityawareness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE994A6-3C29-436B-9383-3FD5BC5FD176}|CybersecurityAwareness\\CybersecurityAwareness.csproj|solutionrelative:cybersecurityawareness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE994A6-3C29-436B-9383-3FD5BC5FD176}|CybersecurityAwareness\\CybersecurityAwareness.csproj|c:\\users\\lab_services_student\\documents\\prog6211-folder\\owethuhadebe-prog6211-poepart2\\cybersecurityawareness\\memorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE994A6-3C29-436B-9383-3FD5BC5FD176}|CybersecurityAwareness\\CybersecurityAwareness.csproj|solutionrelative:cybersecurityawareness\\memorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE994A6-3C29-436B-9383-3FD5BC5FD176}|CybersecurityAwareness\\CybersecurityAwareness.csproj|c:\\users\\lab_services_student\\documents\\prog6211-folder\\owethuhadebe-prog6211-poepart2\\cybersecurityawareness\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE994A6-3C29-436B-9383-3FD5BC5FD176}|CybersecurityAwareness\\CybersecurityAwareness.csproj|solutionrelative:cybersecurityawareness\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE994A6-3C29-436B-9383-3FD5BC5FD176}|CybersecurityAwareness\\CybersecurityAwareness.csproj|c:\\users\\lab_services_student\\documents\\prog6211-folder\\owethuhadebe-prog6211-poepart2\\cybersecurityawareness\\responsemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE994A6-3C29-436B-9383-3FD5BC5FD176}|CybersecurityAwareness\\CybersecurityAwareness.csproj|solutionrelative:cybersecurityawareness\\responsemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG6211-Folder\\OwethuHadebe-PROG6211-POEPart2\\CybersecurityAwareness\\Program.cs",
+              "RelativeDocumentMoniker": "CybersecurityAwareness\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG6211-Folder\\OwethuHadebe-PROG6211-POEPart2\\CybersecurityAwareness\\Program.cs",
+              "RelativeToolTip": "CybersecurityAwareness\\Program.cs",
+              "ViewState": "AgIAABMAAAAgAAAAAEAlwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:54:09.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG6211-Folder\\OwethuHadebe-PROG6211-POEPart2\\CybersecurityAwareness\\MemoryManager.cs",
+              "RelativeDocumentMoniker": "CybersecurityAwareness\\MemoryManager.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG6211-Folder\\OwethuHadebe-PROG6211-POEPart2\\CybersecurityAwareness\\MemoryManager.cs",
+              "RelativeToolTip": "CybersecurityAwareness\\MemoryManager.cs",
+              "ViewState": "AgIAACIAAAAAZGZmZmYBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:54:01.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SentimentAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG6211-Folder\\OwethuHadebe-PROG6211-POEPart2\\CybersecurityAwareness\\SentimentAnalyzer.cs",
+              "RelativeDocumentMoniker": "CybersecurityAwareness\\SentimentAnalyzer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG6211-Folder\\OwethuHadebe-PROG6211-POEPart2\\CybersecurityAwareness\\SentimentAnalyzer.cs",
+              "RelativeToolTip": "CybersecurityAwareness\\SentimentAnalyzer.cs",
+              "ViewState": "AgIAAFsAAAAAAQAAAMAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:53:50.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseManager.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG6211-Folder\\OwethuHadebe-PROG6211-POEPart2\\CybersecurityAwareness\\ResponseManager.cs",
+              "RelativeDocumentMoniker": "CybersecurityAwareness\\ResponseManager.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG6211-Folder\\OwethuHadebe-PROG6211-POEPart2\\CybersecurityAwareness\\ResponseManager.cs",
+              "RelativeToolTip": "CybersecurityAwareness\\ResponseManager.cs",
+              "ViewState": "AgIAAGIAAAAAZGZmZmYrwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:46:38.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG6211-Folder\\OwethuHadebe-PROG6211-POEPart2\\CybersecurityAwareness\\UserInteraction.cs",
+              "RelativeDocumentMoniker": "CybersecurityAwareness\\UserInteraction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG6211-Folder\\OwethuHadebe-PROG6211-POEPart2\\CybersecurityAwareness\\UserInteraction.cs",
+              "RelativeToolTip": "CybersecurityAwareness\\UserInteraction.cs",
+              "ViewState": "AgIAACgAAAAAMzMzM3MmwCUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:44:50.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

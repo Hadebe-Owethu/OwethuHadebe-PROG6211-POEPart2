@@ -19,3 +19,10 @@ C:\Users\lab_services_student\Desktop\prog6221-poe-Hadebe-Owethu\CybersecurityAw
 C:\Users\lab_services_student\Desktop\prog6221-poe-Hadebe-Owethu\CybersecurityAwareness\obj\Debug\CybersecurityAwareness.csproj.CoreCompileInputs.cache
 C:\Users\lab_services_student\Desktop\prog6221-poe-Hadebe-Owethu\CybersecurityAwareness\obj\Debug\CybersecurityAwareness.exe
 C:\Users\lab_services_student\Desktop\prog6221-poe-Hadebe-Owethu\CybersecurityAwareness\obj\Debug\CybersecurityAwareness.pdb
+C:\Users\lab_services_student\Documents\PROG6211-Folder\OwethuHadebe-PROG6211-POEPart2\CybersecurityAwareness\bin\Debug\CybersecurityAwareness.exe.config
+C:\Users\lab_services_student\Documents\PROG6211-Folder\OwethuHadebe-PROG6211-POEPart2\CybersecurityAwareness\bin\Debug\CybersecurityAwareness.exe
+C:\Users\lab_services_student\Documents\PROG6211-Folder\OwethuHadebe-PROG6211-POEPart2\CybersecurityAwareness\bin\Debug\CybersecurityAwareness.pdb
+C:\Users\lab_services_student\Documents\PROG6211-Folder\OwethuHadebe-PROG6211-POEPart2\CybersecurityAwareness\obj\Debug\CybersecurityAwareness.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\PROG6211-Folder\OwethuHadebe-PROG6211-POEPart2\CybersecurityAwareness\obj\Debug\CybersecurityAwareness.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\PROG6211-Folder\OwethuHadebe-PROG6211-POEPart2\CybersecurityAwareness\obj\Debug\CybersecurityAwareness.exe
+C:\Users\lab_services_student\Documents\PROG6211-Folder\OwethuHadebe-PROG6211-POEPart2\CybersecurityAwareness\obj\Debug\CybersecurityAwareness.pdb
